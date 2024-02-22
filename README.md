@@ -1,3 +1,8 @@
+Name : DUONG MANH VU 
+CWID : 885909879
+Email: amao4t@scu.fullerton.edu 
+
+
 
 # DUONG VU - Portfolio - https://amao4t.github.io/myportfolio/
 
@@ -36,7 +41,7 @@ Navigate through the sections using the navigation bar. Feel free to explore my 
 Contributions are welcome! If you have any suggestions or want to improve the portfolio, please feel free to fork the repository and submit a pull request.
 
 ## Credits
-Special thanks to Soumyajit, I learned a lot from him.
+Special thanks to Soumyajit [(https://soumyajit.vercel.app/)], I referenced from him.
 
 
 
