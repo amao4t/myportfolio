@@ -1,10 +1,11 @@
-Name : DUONG MANH VU 
-CWID : 885909879
-Email: amao4t@scu.fullerton.edu 
+# Name : DUONG MANH VU 
+# CWID : 885909879
+# Email: amao4t@scu.fullerton.edu 
+
+# Presentation link : https://github.com/amao4t/myportfolio/blob/main/presentation.pptx
 
 
-
-# DUONG VU - Portfolio - https://amao4t.github.io/myportfolio/
+# DUONG VU - Portfolio Website - https://amao4t.github.io/myportfolio/
 
 ## Introduction
 Welcome to my personal portfolio! This site is a comprehensive display of my work, showcasing my skills, projects, and experience in the field of Computer Science.
