@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import OrderedAssociativeContainers from "../../Assets/Projects/Ordered.png";
+import PortfolioWebsite from "../../Assets/Projects/Portfolio.png";
 
 function Projects() {
   return (
@@ -25,6 +26,18 @@ function Projects() {
               ghLink="https://github.com/amao4t/Ordered-Associative-Containers"
               demoLink=" "
 
+              />
+              </Col>
+    
+              {/* Add your new project card here */}
+              <Col md={4} className="project-card">
+                <ProjectCard
+                  imgPath={PortfolioWebsite}
+                  isBlog={false}
+                  title="Portfolio-Website"
+                  description="This portfolio website is a comprehensive showcase of my journey as a software developer, featuring a curated selection of my projects, skills, and professional experiences. Designed with a user-centric approach, the website offers a seamless and engaging user experience, allowing visitors to explore my work and get to know me better."
+                  ghLink="https://github.com/amao4t/myportfolio"
+                  demoLink="https://amao4t.github.io/myportfolio/"
             />
           </Col>
         </Row>
