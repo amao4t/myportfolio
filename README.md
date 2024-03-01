@@ -42,6 +42,9 @@ Navigate through the sections using the navigation bar. Feel free to explore my 
 Contributions are welcome! If you have any suggestions or want to improve the portfolio, please feel free to fork the repository and submit a pull request.
 
 ## Credits
+React.js Official Documentation: [https://reactjs.org/docs/getting-started.html](https://reactjs.org/docs/getting-started.html)
+GitHub Pages Deployment Guide: [https://pages.github.com/](https://pages.github.com/)
+Node.js Package Management: [https://docs.npmjs.com/](https://docs.npmjs.com/)
 Special thanks to Soumyajit [(https://soumyajit.vercel.app/)], I referenced from him.
 
 
